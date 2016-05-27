@@ -131,7 +131,7 @@ class Scraper(object):
         self.first_page(self.url)
         self.click_search_button()
         try:
-            for i in (1, int(5309/50) + 1):
+            for i in range(1, int(5309/50) + 1):
                 self.get_jobs()
                 f = open('myhtml.html','a')
                 f.write(self.browser.page_source)
