@@ -130,12 +130,16 @@ class Scraper(object):
     def main(self):
         self.first_page(self.url)
         self.click_search_button()
-        self.get_jobs()
-        self.click_next_button()
         try:
-            for _ in (1, int(5309/50) + 1):
+            for i in (1, int(5309/50) + 1):
                 self.get_jobs()
-                self.click_next_button()
+                f = open('myhtml.html','a')
+                f.write(self.browser.page_source)
+                f.close()
+                self.first_page(self.url)
+                self.click_search_button()
+                for _ in range(1, i+1):
+                    self.click_next_button()
         except Exception as e:
             print 'exception= ', str(e)
             #print 'stacktrace= ', traceback.print_exc()
