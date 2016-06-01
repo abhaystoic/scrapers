@@ -20,46 +20,10 @@ class Scraper(object):
         '''
         self.url = 'https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25667&siteid=5417'
         self.base_job_url = 'https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?'
-        
-        #Firefox profile/settings. Disabling CSS, flash etc and making the page as lean as possible
-        firefox_profile = webdriver.FirefoxProfile()
-        firefox_profile.set_preference('permissions.default.stylesheet', 2)
-        firefox_profile.set_preference('dom.ipc.plugins.enabled.libflashplayer.so', 'false')
-        firefox_profile.set_preference("network.http.pipelining", True)
-        firefox_profile.set_preference("network.http.proxy.pipelining", True)
-        firefox_profile.set_preference("network.http.pipelining.maxrequests", 8)
-        firefox_profile.set_preference("content.notify.interval", 500000)
-        firefox_profile.set_preference("content.notify.ontimer", True)
-        firefox_profile.set_preference("content.switch.threshold", 250000)
-        firefox_profile.set_preference("browser.cache.memory.capacity", 65536) # Increase the cache capacity.
-        firefox_profile.set_preference("browser.startup.homepage", "about:blank")
-        firefox_profile.set_preference("reader.parse-on-load.enabled", False) # Disable reader, we won't need that.
-        firefox_profile.set_preference("browser.pocket.enabled", False) # Duck pocket too!
-        firefox_profile.set_preference("loop.enabled", False)
-        firefox_profile.set_preference("browser.chrome.toolbar_style", 1) # Text on Toolbar instead of icons
-        firefox_profile.set_preference("browser.display.show_image_placeholders", False) # Don't show thumbnails on not loaded images.
-        firefox_profile.set_preference("browser.display.use_document_colors", False) # Don't show document colors.
-        firefox_profile.set_preference("browser.display.use_document_fonts", 0) # Don't load document fonts.
-        firefox_profile.set_preference("browser.display.use_system_colors", True) # Use system colors.
-        firefox_profile.set_preference("browser.formfill.enable", False) # Autofill on forms disabled.
-        firefox_profile.set_preference("browser.helperApps.deleteTempFileOnExit", True) # Delete temprorary files.
-        firefox_profile.set_preference("browser.shell.checkDefaultBrowser", False)
-        firefox_profile.set_preference("browser.startup.homepage", "about:blank")
-        firefox_profile.set_preference("browser.startup.page", 0) # blank
-        firefox_profile.set_preference("browser.tabs.forceHide", True) # Disable tabs, We won't need that.
-        firefox_profile.set_preference("browser.urlbar.autoFill", False) # Disable autofill on URL bar.
-        firefox_profile.set_preference("browser.urlbar.autocomplete.enabled", False) # Disable autocomplete on URL bar.
-        firefox_profile.set_preference("browser.urlbar.showPopup", False) # Disable list of URLs when typing on URL bar.
-        firefox_profile.set_preference("browser.urlbar.showSearch", False) # Disable search bar.
-        firefox_profile.set_preference("extensions.checkCompatibility", False) # Addon update disabled
-        firefox_profile.set_preference("extensions.checkUpdateSecurity", False)
-        firefox_profile.set_preference("extensions.update.autoUpdateEnabled", False)
-        firefox_profile.set_preference("extensions.update.enabled", False)
-        firefox_profile.set_preference("general.startup.browser", False)
-        firefox_profile.set_preference("plugin.default_plugin_disabled", False)
-        firefox_profile.set_preference("permissions.default.image", 2) # Image load disabled again
-        #self.browser = webdriver.Firefox(firefox_profile=firefox_profile)
-        self.browser = webdriver.PhantomJS(executable_path='phantomjs.exe', desired_capabilities=webdriver.DesiredCapabilities.HTMLUNITWITHJS)
+        self.browser = webdriver.PhantomJS(executable_path='phantomjs.exe', 
+                                           desired_capabilities=webdriver.DesiredCapabilities.HTMLUNITWITHJS,
+                                           service_args=['--load-images=no']
+                                           )
         self.first_page_search_opening_id = 'srchOpenLink'
         self.second_page_search_btn_id = 'ctl00_MainContent_submit2'
         self.next_link_id = 'yui-pg0-0-next-link'
