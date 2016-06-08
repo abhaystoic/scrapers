@@ -127,7 +127,6 @@ def get_next_page_link_content(browser, a_id):
     return page_source
 
 def print_next_job_details(pagination_next_pg_id, url):
-    
     browser_obj = get_next_page(pagination_next_pg_id, url)
     count = 0
     soup = BeautifulSoup(html_doc, 'html.parser')
@@ -161,9 +160,3 @@ if __name__ == '__main__':
     except Exception as e:
         print e
         print 'Line Number= ' + str(sys.exc_traceback.tb_lineno)
-    
-#     possibleClassNames = ['tpjob_title', 'title', 'job_title', 'jobtitle']
-#     jobTitleList = soup.findAll('div', attrs={'class':'tpjob_title'})
-#     for jobTitle in jobTitleList:
-#         print jobTitle
-#     print 'hello'

@@ -1,0 +1,954 @@
+2399761 :: TEST LEAD :: BE/Btech/Beng(Hons) :: 09-Jun-2016
+2474214 :: Senior Developer :: BE/Btech/Beng(Hons) :: 12-Jun-2016
+2478728 :: Senior Developer :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2481834 :: Analyst :: BE/B.Tech (Hons) :: 25-May-2017
+2478773 :: TECHNICAL ARCHITECT :: BCS :: 17-Jun-2016
+2481838 :: TRAINEE :: BE/B.Tech (Hons) :: 25-May-2017
+2478774 :: Senior Developer :: BCS :: 17-Jun-2016
+2482121 :: Specialist :: BCA :: 25-May-2017
+2489017 :: Analyst :: BE/B.Tech (Hons) :: 06-Jul-2016
+2483033 :: TECHNICAL MANAGER :: BE/Btech/Beng(Hons) :: 24-Jun-2016
+2490841 :: SENIOR TRAINER :: Diploma :: 08-Jul-2016
+2483037 :: Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2491467 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2458344 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 27-Apr-2017
+2483751 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2491468 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2483752 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 25-May-2017
+2483753 :: Graduate Trainee :: BE/B.Tech (Hons) :: 25-May-2017
+2491653 :: Specialist :: BSc :: 08-Jul-2016
+2458345 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 27-Apr-2017
+2483754 :: Graduate Trainee :: BE/B.Tech (Hons) :: 25-May-2017
+2491654 :: Specialist :: BSc :: 08-Jul-2016
+2491655 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 08-Jul-2016
+2483925 :: SENIOR CONSULTANT :: (B.E.S) Electronic Science :: 25-May-2017
+2458346 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 27-Apr-2017
+2453351 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 13-Apr-2017
+2491760 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Jul-2016
+2483929 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 25-May-2017
+2435114 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2483930 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 25-May-2017
+2491762 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Jul-2016
+2435758 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 23-Mar-2017
+2458347 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 27-Apr-2017
+2453448 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 13-Apr-2017
+2484395 :: Technical Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2491763 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 08-Jul-2016
+2211674 :: Specialist :: BE/B.Tech (Hons) :: 04-Nov-2016
+2435759 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 23-Mar-2017
+2270278 :: Technical Specialist :: BE/B.Tech (Hons) :: 15-Nov-2016
+2484397 :: SENIOR SPECIALIST :: BCA :: 25-May-2017
+2491767 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2379916 :: SENIOR SPECIALIST :: BCA :: 05-Jan-2017
+2435761 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2484427 :: GROUP MANAGER :: Others :: 25-May-2017
+2491768 :: CONSULTANT :: BE/B.Tech (Hons) :: 08-Jul-2016
+2458348 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2435762 :: Analyst :: BCom :: 23-Mar-2017
+2403114 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 02-Feb-2017
+2484428 :: Senior Manager :: Others :: 25-May-2017
+2491769 :: Technical Specialist :: BE/B.Tech (Hons) :: 08-Jul-2016
+2435764 :: Specialist :: Diploma :: 23-Mar-2017
+2398207 :: VICE PRESIDENT :: BE/Btech/Beng(Hons) :: 23-Feb-2017
+2492593 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2274729 :: SENIOR SPECIALIST :: MCA :: 23-Nov-2016
+2458349 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2435766 :: Specialist :: BE/B.Tech (Hons) :: 23-Mar-2017
+2399902 :: Third Party :: BCom :: 28-Jan-2017
+2484429 :: Senior Manager :: Others :: 25-May-2017
+2492595 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2435919 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2410370 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Feb-2017
+2484430 :: Senior Manager :: Others :: 25-May-2017
+2377008 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 21-Dec-2016
+2398275 :: SENIOR SPECIALIST :: B.I.S(Bachelor of Information Sciences) :: 27-Jan-2017
+2492596 :: Specialist :: BE/B.Tech (Hons) :: 08-Jul-2016
+2435921 :: TRACK LEAD :: BE/B.Tech (Hons) :: 23-Mar-2017
+2416563 :: Deputy Manager :: CA :: 22-Feb-2017
+2484431 :: Senior Manager :: Others :: 25-May-2017
+2492597 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 08-Jul-2016
+2458350 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2435924 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Mar-2017
+2398277 :: Technical Specialist :: B.Ed :: 27-Jan-2017
+2416570 :: PRACTICE DIRECTOR :: MBA :: 23-Feb-2017
+2492611 :: Process Manager :: BA :: 08-Jul-2016
+2436327 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2484576 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 25-May-2017
+2398301 :: CONSULTANT :: MCA :: 27-Jan-2017
+2492622 :: Analyst :: MCom :: 08-Jul-2016
+2416571 :: PRACTICE DIRECTOR :: BE/B.Tech (Hons) :: 23-Feb-2017
+2436328 :: TRACK LEAD :: BE/B.Tech (Hons) :: 23-Mar-2017
+2484577 :: ASSISTANT MANAGER :: BE/B.Tech (Hons) :: 25-May-2017
+2492671 :: SHIFT LEAD :: BE/B.Tech (Hons) :: 08-Jul-2016
+2418915 :: Specialist :: BE/B.Tech (Hons) :: 23-Feb-2017
+2398787 :: Analyst :: BSc :: 27-Jan-2017
+2419370 :: Specialist :: BSc :: 23-Feb-2017
+2378963 :: SENIOR ANALYST :: BCA :: 28-Dec-2016
+2436330 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Mar-2017
+2398789 :: SHIFT LEAD :: BE/B.Tech (Hons) :: 27-Jan-2017
+2458351 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2419423 :: TRACK LEAD :: B.Arch. :: 23-Feb-2017
+2493010 :: CONSULTANT :: BA :: 08-Jul-2016
+2484579 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 24-Jun-2016
+2378964 :: SENIOR ANALYST :: BCA :: 28-Dec-2016
+2436649 :: Analyst :: Bachelor of Arts :: 22-Mar-2017
+2419426 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Feb-2017
+2398795 :: Analyst :: BE/B.Tech (Hons) :: 27-Jan-2017
+2493032 :: Specialist :: BE/B.Tech (Hons) :: 08-Jul-2016
+2484581 :: SENIOR SPECIALIST :: (B.E.S) Electronic Science :: 25-May-2017
+2458377 :: SHIFT LEAD :: BE/B.Tech (Hons) :: 27-Apr-2017
+2378965 :: SENIOR ANALYST :: BCA :: 28-Dec-2016
+2436650 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2398797 :: SENIOR SPECIALIST :: BSc :: 27-Jan-2017
+2493033 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2419427 :: Specialist :: MCA :: 23-Feb-2017
+2484582 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 25-May-2017
+2436651 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2378966 :: SENIOR ANALYST :: BCA :: 28-Dec-2016
+2398802 :: Analyst :: BE/B.Tech (Hons) :: 27-Jan-2017
+2458378 :: Specialist :: BE/B.Tech (Hons) :: 27-Apr-2017
+2493034 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 08-Jul-2016
+2419428 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 23-Feb-2017
+2484583 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2378967 :: SENIOR ANALYST :: BCA :: 28-Dec-2016
+2436652 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2398876 :: Specialist :: BA :: 27-Jan-2017
+2484584 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 25-May-2017
+2493036 :: Specialist :: BE/B.Tech (Hons) :: 08-Jul-2016
+2419429 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 23-Feb-2017
+2379994 :: CONSULTANT :: BE/B.Tech (Hons) :: 05-Jan-2017
+2458382 :: TRACK LEAD :: BCom :: 27-Apr-2017
+2436653 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2484585 :: Principal Technical Architect :: MCA :: 25-May-2017
+2398879 :: Specialist :: BE/B.Tech (Hons) :: 27-Jan-2017
+2378968 :: SENIOR ANALYST :: BCA :: 28-Dec-2016
+2493037 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Jul-2016
+2436654 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2387867 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 12-Jan-2017
+2419431 :: Technical Specialist :: BE/B.Tech (Hons) :: 23-Feb-2017
+2398894 :: Technical Lead :: BE/B.Tech (Hons) :: 27-Jan-2017
+2484586 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2458391 :: Specialist :: BSc :: 27-Apr-2017
+2378969 :: Analyst :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2493038 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Jul-2016
+2436655 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2419432 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 23-Feb-2017
+2444144 :: Specialist :: BE/Btech/Beng(Hons) :: 06-Apr-2017
+n-2017
+2378970 :: Analyst :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2493042 :: Technical Specialist :: BE/B.Tech (Hons) :: 08-Jul-2016
+2484587 :: SENIOR SPECIALIST :: BSc :: 25-May-2017
+2436656 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2419434 :: SENIOR SPECIALIST :: BCom :: 23-Feb-2017
+2458392 :: Analyst :: BSc :: 27-Apr-2017
+2484589 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2399033 :: Technical Specialist :: BE/B.Tech (Hons) :: 27-Jan-2017
+2419820 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Feb-2017
+2493044 :: Specialist :: BE/B.Tech (Hons) :: 08-Jul-2016
+2436657 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2448121 :: Specialist :: BE/B.Tech (Hons) :: 06-Apr-2017
+2378971 :: Analyst :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2484594 :: Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2399036 :: Technical Specialist :: BE/B.Tech (Hons) :: 27-Jan-2017
+2493045 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Jul-2016
+2419823 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Feb-2017
+2378972 :: Analyst :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2448820 :: Specialist :: (B.E.S) Electronic Science :: 06-Apr-2017
+2436658 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2484595 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 25-May-2017
+2458393 :: Analyst :: BSc :: 27-Apr-2017
+2399037 :: Technical Specialist :: BE/B.Tech (Hons) :: 27-Jan-2017
+2436660 :: Analyst :: BE/Btech/Beng(Hons) :: 22-Mar-2017
+2493246 :: Analyst :: BE/B.Tech (Hons) :: 08-Jun-2017
+2484596 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 25-May-2017
+2378973 :: Analyst :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2419825 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 23-Feb-2017
+2448874 :: Senior Analyst :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2399038 :: CONSULTANT :: BE/B.Tech (Hons) :: 27-Jan-2017
+2458395 :: Specialist :: BCA :: 27-Apr-2017
+2436661 :: Specialist :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2493251 :: Specialist :: BE/B.Tech (Hons) :: 08-Jun-2017
+2419826 :: Technical Specialist :: BE/B.Tech (Hons) :: 23-Feb-2017
+2484597 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2378974 :: Senior Manager :: BE/B.Tech (Hons) :: 28-Dec-2016
+2399039 :: CONSULTANT :: BE/B.Tech (Hons) :: 27-Jan-2017
+2449180 :: Analyst :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2419838 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 23-Feb-2017
+2458396 :: Analyst :: BE/Btech/Beng(Hons) :: 27-Apr-2017
+2436662 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2379978 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 05-Jan-2017
+2484598 :: Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2493252 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 08-Jun-2017
+2419880 :: OPERATIONS MANAGER :: BE/Btech/Beng(Hons) :: 23-Feb-2017
+2378975 :: Technical Specialist :: BCA :: 28-Dec-2016
+2436675 :: Specialist :: BE/B.Tech (Hons) :: 23-Mar-2017
+2449181 :: Analyst :: BE/B.Tech (Hons) :: 12-Apr-2017
+2484601 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2380949 :: Specialist :: MCA :: 05-Jan-2017
+2493253 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 08-Jun-2017
+2420026 :: Analyst :: BE/B.Tech (Hons) :: 23-Feb-2017
+2378976 :: Team Leader :: BSc :: 28-Dec-2016
+2449182 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2437015 :: SENIOR SPECIALIST :: BCA :: 22-Mar-2017
+2394136 :: Analyst :: BE/B.Tech (Hons) :: 26-Jan-2017
+2484602 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 25-May-2017
+2420027 :: Analyst :: BCA :: 22-Feb-2017
+2493254 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 08-Jun-2017
+2458397 :: Analyst :: B.Arch. :: 27-Apr-2017
+2437016 :: Analyst :: BCA :: 23-Mar-2017
+2484603 :: ASSOCIATE CONSULTANT :: BSc :: 25-May-2017
+2394668 :: Specialist :: B.I.T :: 26-Jan-2017
+2378977 :: Analyst :: BSc :: 28-Dec-2016
+2420028 :: Analyst :: BSc :: 23-Feb-2017
+2449186 :: Analyst :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2493255 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 08-Jun-2017
+2437017 :: Analyst :: BCA :: 23-Mar-2017
+2378978 :: Analyst :: BSc :: 28-Dec-2016
+2394672 :: MANAGER :: BE/B.Tech (Hons) :: 26-Jan-2017
+2484605 :: Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2420029 :: Analyst :: BSc :: 23-Feb-2017
+2493256 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 08-Jun-2017
+2449187 :: Analyst :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2394679 :: Technical Specialist :: BE/B.Tech (Hons) :: 26-Jan-2017
+2437276 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 23-Mar-2017
+2484606 :: Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2458401 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 26-Apr-2017
+2378979 :: Analyst :: BSc :: 28-Dec-2016
+1898233 :: Specialist :: BE/Btech/Beng(Hons) :: 22-Oct-2016
+2493258 :: Analyst :: BE/B.Tech (Hons) :: 08-Jun-2017
+2449188 :: Analyst :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2395764 :: SENIOR SPECIALIST :: BA :: 26-Jan-2017
+2484607 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2378981 :: Analyst :: BCom :: 28-Dec-2016
+2398869 :: Technical Specialist :: BE/B.Tech (Hons) :: 01-Feb-2017
+2437278 :: Analyst :: BE/B.Tech (Hons) :: 23-Mar-2017
+2493259 :: Analyst :: BE/B.Tech (Hons) :: 08-Jun-2017
+2449636 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 12-Apr-2017
+2396546 :: SENIOR ANALYST :: BA :: 26-Jan-2017
+2378982 :: Analyst :: Others :: 28-Dec-2016
+2398870 :: CONSULTANT :: BE/B.Tech (Hons) :: 01-Feb-2017
+2484608 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 25-May-2017
+2437284 :: Analyst :: BCom :: 23-Mar-2017
+2474109 :: Specialist :: BBA :: 12-May-2017
+2449736 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2493260 :: Analyst :: BE/B.Tech (Hons) :: 08-Jun-2017
+2378983 :: SENIOR SPECIALIST :: BCom :: 28-Dec-2016
+2396597 :: Analyst :: BE/B.Tech (Hons) :: 26-Jan-2017
+2398980 :: ASSISTANT MANAGER :: BE/B.Tech (Hons) :: 22-Feb-2017
+2437288 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2484609 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 25-May-2017
+2458402 :: Analyst :: BA :: 27-Apr-2017
+2474111 :: SENIOR SPECIALIST :: BBA :: 12-May-2017
+2493261 :: Analyst :: BE/B.Tech (Hons) :: 08-Jun-2017
+2450911 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2378984 :: Technical Specialist :: BCA :: 28-Dec-2016
+2396600 :: Analyst :: BE/B.Tech (Hons) :: 26-Jan-2017
+2399758 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2437289 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2484611 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 25-May-2017
+2474112 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 11-Jun-2016
+2493262 :: Graduate Trainee :: BE/Btech/Beng(Hons) :: 08-Jun-2017
+2396601 :: Specialist :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+2450912 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2378985 :: SENIOR ANALYST :: BA :: 28-Dec-2016
+2400506 :: Team Leader :: BE/B.Tech (Hons) :: 22-Feb-2017
+2484612 :: Associate :: BE/B.Tech (Hons) :: 25-May-2017
+2437290 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2458403 :: Analyst :: BA :: 27-Apr-2017
+2474113 :: Analyst :: BE/Btech/Beng(Hons) :: 12-May-2017
+2378986 :: SENIOR ANALYST :: BA :: 28-Dec-2016
+2396603 :: Analyst :: BE/B.Tech (Hons) :: 26-Jan-2017
+2493263 :: Engineer :: BE/B.Tech (Hons) :: 07-Jun-2017
+2400507 :: SENIOR SPECIALIST :: Masters in Business Administration :: 22-Feb-2017
+2484613 :: Associate :: BE/B.Tech (Hons) :: 25-May-2017
+2437291 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2450913 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2474114 :: Analyst :: BCA :: 12-May-2017
+2378987 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2396610 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+2484614 :: Associate :: BE/Btech/Beng(Hons) :: 25-May-2017
+2400508 :: Senior Executive :: BE/B.Tech (Hons) :: 22-Feb-2017
+2437292 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2458404 :: Analyst :: BA :: 27-Apr-2017
+2493264 :: ASSOCIATE CONSULTANT :: (B.E.S) Electronic Science :: 08-Jun-2017
+2450914 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2378988 :: Analyst :: BCA :: 28-Dec-2016
+2474117 :: Analyst :: BE/B.Tech (Hons) :: 12-May-2017
+2402288 :: Senior Executive :: MBA :: 22-Feb-2017
+2396611 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+2484615 :: Associate :: BE/Btech/Beng(Hons) :: 25-May-2017
+2493265 :: Graduate Trainee :: BE/Btech/Beng(Hons) :: 08-Jun-2017
+2437293 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2378989 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 28-Dec-2016
+2458405 :: Analyst :: BA :: 27-Apr-2017
+2396612 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+: 22-Feb-2017
+2484617 :: TRACK LEAD :: BE/B.Tech (Hons) :: 25-May-2017
+16
+2407636 :: CONSULTANT :: BE/B.Tech (Hons) :: 22-Feb-2017
+2407640 :: CONSULTANT :: BE/B.Tech (Hons) :: 22-Feb-2017
+2378991 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 28-Dec-2016
+2378992 :: Analyst :: B.Arch. :: 28-Dec-2016
+2396615 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+2407672 :: Analyst :: BCom :: 22-Feb-2017
+2408667 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2396616 :: Analyst :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+2378993 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 28-Dec-2016
+2408669 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2450915 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2378995 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 28-Dec-2016
+2396617 :: Analyst :: Others :: 26-Jan-2017
+2408880 :: Senior Manager :: (B.E.S) Electronic Science :: 22-Feb-2017
+2378996 :: SENIOR SPECIALIST :: B.I.T :: 28-Dec-2016
+2396618 :: Analyst :: Others :: 26-Jan-2017
+2458406 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2437296 :: Analyst :: BE/Btech/Beng(Hons) :: 23-Mar-2017
+2378997 :: Specialist :: BE/B.Tech (Hons) :: 28-Dec-2016
+2408881 :: Senior Manager :: (B.E.S) Electronic Science :: 22-Feb-2017
+2437352 :: Analyst :: BCA :: 23-Mar-2017
+2378998 :: Specialist :: BE/B.Tech (Hons) :: 28-Dec-2016
+2408882 :: Senior Manager :: (B.E.S) Electronic Science :: 22-Feb-2017
+2378999 :: Specialist :: BE/Btech/Beng(Hons) :: 28-Dec-2016
+2458407 :: Technical Specialist :: (B.E.S) Electronic Science :: 27-Apr-2017
+2396638 :: Deputy Manager :: B.Arch. :: 26-Jan-2017
+2379391 :: SENIOR SPECIALIST :: BCom :: 27-Dec-2016
+2408883 :: GROUP MANAGER :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2396653 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 26-Jan-2017
+2458408 :: Technical Specialist :: (B.E.S) Electronic Science :: 27-Apr-2017
+2438511 :: Specialist :: (B.E.S) Electronic Science :: 23-Mar-2017
+2379392 :: SENIOR SPECIALIST :: BCom :: 28-Dec-2016
+2396885 :: Specialist :: BE/B.Tech (Hons) :: 26-Jan-2017
+2379397 :: Analyst :: B.I.T :: 28-Dec-2016
+2438512 :: TRACK LEAD :: (B.E.S) Electronic Science :: 23-Mar-2017
+2408884 :: GROUP MANAGER :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2396887 :: Engineer :: BCom :: 26-Jan-2017
+2458409 :: Technical Specialist :: (B.E.S) Electronic Science :: 27-Apr-2017
+2379402 :: Analyst :: B.I.T :: 28-Dec-2016
+2408906 :: Senior Manager :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2396897 :: Engineer :: BE/B.Tech (Hons) :: 26-Jan-2017
+2379403 :: Analyst :: B.I.T :: 28-Dec-2016
+2397036 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 26-Jan-2017
+2438513 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 23-Mar-2017
+2379404 :: Analyst :: B.I.T :: 28-Dec-2016
+2210437 :: Analyst :: BCom :: 03-Nov-2016
+2397859 :: SENIOR SPECIALIST :: BA :: 26-Jan-2017
+2458410 :: Technical Specialist :: (B.E.S) Electronic Science :: 27-Apr-2017
+2438693 :: Specialist :: BCom :: 21-Jun-2016
+2377680 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 27-Dec-2016
+2397860 :: SENIOR SPECIALIST :: BA :: 26-Jan-2017
+2208946 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 02-Nov-2016
+2377683 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 27-Dec-2016
+2398038 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 26-Jan-2017
+2377684 :: Technical Specialist :: BE/B.Tech (Hons) :: 27-Dec-2016
+2331881 :: Customer Support Executive :: Bachelor of Arts :: 20-Jun-2016
+2398039 :: Technical Specialist :: BE/B.Tech (Hons) :: 26-Jan-2017
+2450922 :: Analyst :: BCom :: 12-Apr-2017
+2458411 :: Technical Specialist :: (B.E.S) Electronic Science :: 27-Apr-2017
+2377702 :: Technical Specialist :: BSc :: 27-Dec-2016
+2395936 :: Technical Specialist :: B.I.T :: 21-Jan-2017
+2398042 :: SENIOR SPECIALIST :: BA :: 26-Jan-2017
+2451335 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2377703 :: Specialist :: BE/Btech/Beng(Hons) :: 27-Dec-2016
+2398043 :: SENIOR SPECIALIST :: BCom :: 26-Jan-2017
+2474530 :: Specialist :: BCom :: 11-Jun-2016
+2458412 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 27-Apr-2017
+2451336 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2377711 :: Specialist :: BE/B.Tech (Hons) :: 27-Dec-2016
+2398045 :: Technical Specialist :: BSc :: 26-Jan-2017
+2377712 :: SENIOR SPECIALIST :: BSc :: 27-Dec-2016
+2451337 :: Specialist :: BE/B.Tech (Hons) :: 26-Mar-2017
+2413976 :: Technical Specialist :: BE/B.Tech (Hons) :: 15-Feb-2017
+2378089 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 27-Dec-2016
+2451339 :: Specialist :: Others :: 12-Apr-2017
+2433350 :: Analyst :: Diploma :: 10-Jun-2016
+2451340 :: SENIOR ANALYST :: BSc :: 12-Apr-2017
+2458413 :: SENIOR ANALYST :: BA :: 27-Apr-2017
+2446058 :: Lead Engineer :: BE/B.Tech (Hons) :: 12-Aug-2016
+2451341 :: Specialist :: BCA :: 12-Apr-2017
+2450601 :: Analyst :: BE/Btech/Beng(Hons) :: 10-Jun-2016
+2451342 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211422 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2454387 :: DATA ARCHITECT :: MBA :: 10-Jun-2016
+2458414 :: Specialist :: BSc :: 27-Apr-2017
+2451355 :: Analyst :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211423 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2458028 :: Associate Project Manager :: MBA :: 10-Jun-2016
+2211424 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2460909 :: Senior Manager :: BSc :: 10-Jun-2016
+2451356 :: Analyst :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211425 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2468369 :: AREA SALES DIRECTOR :: Others :: 10-Jun-2016
+2458415 :: SENIOR ANALYST :: BA :: 27-Apr-2017
+2211426 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2451361 :: Senior Manager :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2451362 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211429 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2451363 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 12-Apr-2017
+2469013 :: Senior Engineer :: BE/Btech/Beng(Hons) :: 10-Jun-2016
+2211431 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2451365 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 12-Apr-2017
+2458516 :: Third Party :: BE/Btech/Beng(Hons) :: 27-Apr-2017
+2469058 :: Deputy Manager :: MBA :: 10-Jun-2016
+2211432 :: Specialist :: BE/B.Tech (Hons) :: 04-Nov-2016
+2451366 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 12-Apr-2017
+2469062 :: EXECUTIVE :: MBA :: 10-Jun-2016
+2211433 :: Technical Specialist :: BE/B.Tech (Hons) :: 04-Nov-2016
+2451367 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 12-Apr-2017
+2211434 :: Specialist :: BE/B.Tech (Hons) :: 04-Nov-2016
+2469066 :: GRAPHIC DESIGNER :: BA :: 10-Jun-2016
+2451369 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 12-Apr-2017
+2458520 :: Third Party :: BE/Btech/Beng(Hons) :: 27-Apr-2017
+2469069 :: Contract Retainer :: MBA :: 10-Jun-2016
+2211437 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2451370 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 12-Apr-2017
+2211438 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2469073 :: ASSOCIATE EXECUTIVE :: MBA :: 10-Jun-2016
+2451371 :: Analyst :: BE/B.Tech (Hons) :: 12-Apr-2017
+2469076 :: Senior Manager :: BE/B.Tech (Hons) :: 10-Jun-2016
+2211440 :: SENIOR SPECIALIST :: BCA :: 04-Nov-2016
+2451564 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2469077 :: Associate General Manager :: BCom :: 10-Jun-2016
+2211562 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2451565 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 12-Apr-2017
+2469079 :: Junior Support Analyst :: BE/B.Tech (Hons) :: 10-Jun-2016
+2451569 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211563 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2469081 :: GROUP MANAGER :: BCS :: 10-Jun-2016
+2458526 :: Third Party :: BE/Btech/Beng(Hons) :: 27-Apr-2017
+2451570 :: Technical Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211564 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2469082 :: GROUP MANAGER :: BCS :: 10-Jun-2016
+2451571 :: Specialist :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211565 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211566 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2458530 :: Third Party :: BE/Btech/Beng(Hons) :: 27-Apr-2017
+2472173 :: SENIOR SOFTWARE ENGINEER :: MCA :: 10-Jun-2016
+2451573 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211567 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211568 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2472177 :: SENIOR SOFTWARE ENGINEER :: BE/B.Tech (Hons) :: 10-Jun-2016
+2451597 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 12-Apr-2017
+2211603 :: Analyst :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2458533 :: Specialist :: BCA :: 27-Apr-2017
+2458534 :: ASSISTANT MANAGER :: BA :: 27-Apr-2017
+2458536 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 27-Apr-2017
+2458538 :: Specialist :: BE/B.Tech (Hons) :: 27-Apr-2017
+2491429 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 06-Jun-2017
+2211607 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2458543 :: Analyst :: BE/Btech/Beng(Hons) :: 27-Apr-2017
+2458547 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2491430 :: Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2458549 :: Technical Specialist :: BCA :: 27-Apr-2017
+2211608 :: Analyst :: BSc :: 04-Nov-2016
+2458550 :: Technical Specialist :: BCA :: 27-Apr-2017
+2211609 :: Analyst :: (B.E.S) Electronic Science :: 04-Nov-2016
+2211610 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2458552 :: Analyst :: BCom :: 27-Apr-2017
+2458554 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2211613 :: SENIOR ANALYST :: BCA :: 04-Nov-2016
+2458557 :: Analyst :: BA :: 27-Apr-2017
+2458561 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2458562 :: Specialist :: BE/B.Tech (Hons) :: 27-Apr-2017
+2458563 :: Analyst :: BE/B.Tech (Hons) :: 27-Apr-2017
+2211614 :: Analyst :: BE/B.Tech (Hons) :: 04-Nov-2016
+2211615 :: Analyst :: BE/B.Tech (Hons) :: 04-Nov-2016
+2211621 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211622 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211623 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2491432 :: Specialist :: BSc :: 06-Jun-2017
+2211624 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2491435 :: Technical Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2211625 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211626 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211627 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211628 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2491436 :: SHIFT LEAD :: BE/B.Tech (Hons) :: 06-Jun-2017
+2211629 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211631 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+2211632 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 04-Nov-2016
+1879481 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 14-Oct-2016
+2491437 :: SENIOR SPECIALIST :: B.Arch. :: 06-Jun-2017
+1879482 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 14-Oct-2016
+1884291 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 20-Oct-2016
+1895738 :: Specialist :: BA :: 21-Oct-2016
+2209543 :: SENIOR SPECIALIST :: BBA :: 03-Nov-2016
+2209544 :: SENIOR SPECIALIST :: BBA :: 03-Nov-2016
+2491440 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 06-Jun-2017
+2209545 :: SENIOR SPECIALIST :: BBA :: 03-Nov-2016
+2209667 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 03-Nov-2016
+2209668 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 03-Nov-2016
+2491442 :: Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2209669 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 03-Nov-2016
+2209670 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 03-Nov-2016
+2491443 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 06-Jun-2017
+2433616 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2491449 :: Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2433617 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2433618 :: Specialist :: BE/B.Tech (Hons) :: 16-Mar-2017
+2433619 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2479756 :: SENIOR SPECIALIST :: BCom :: 18-May-2017
+2433620 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2479757 :: Analyst :: BE/Btech/Beng(Hons) :: 18-May-2017
+2491456 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 06-Jun-2017
+2433621 :: Analyst :: BSc :: 16-Mar-2017
+2433625 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 16-Mar-2017
+2491457 :: Technical Specialist :: MCA :: 06-Jun-2017
+2491458 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 06-Jun-2017
+2433626 :: SENIOR SPECIALIST :: (B.E.S) Electronic Science :: 12-Mar-2017
+2433627 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 16-Mar-2017
+2433725 :: Analyst :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2491459 :: Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2479758 :: Analyst :: BE/B.Tech (Hons) :: 18-May-2017
+2433727 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2479759 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2491460 :: ASSOCIATE CONSULTANT :: MCA :: 06-Jun-2017
+2479760 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2433728 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2479761 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2491463 :: Associate Process Manager :: BE/B.Tech (Hons) :: 06-Jun-2017
+2479762 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2433729 :: Analyst :: BE/B.Tech (Hons) :: 16-Mar-2017
+2491469 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 06-Jun-2017
+2479763 :: Specialist :: BE/B.Tech (Hons) :: 18-May-2017
+2377048 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 21-Dec-2016
+2491470 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 06-Jun-2017
+2479764 :: Analyst :: BE/B.Tech (Hons) :: 18-May-2017
+2491472 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 06-Jun-2017
+1645479 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 26-Aug-2016
+2433730 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2491481 :: Specialist :: BSc :: 06-Jun-2017
+1796835 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 20-Sep-2016
+2433732 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2491482 :: Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2479766 :: Analyst :: BE/B.Tech (Hons) :: 18-May-2017
+2433733 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+1879424 :: CONSULTANT :: (B.E.S) Electronic Science :: 19-Oct-2016
+2433734 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2433735 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2433736 :: Specialist :: BE/B.Tech (Hons) :: 16-Mar-2017
+2479783 :: TRAINEE :: MCA :: 17-Jun-2016
+2418388 :: Deputy Manager :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2433737 :: Specialist :: BE/B.Tech (Hons) :: 16-Mar-2017
+2433738 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 16-Mar-2017
+2491483 :: Technical Specialist :: BE/B.Tech (Hons) :: 06-Jun-2017
+2433739 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 16-Mar-2017
+2270275 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 15-Nov-2016
+2479784 :: Graduate Trainee :: MCA :: 17-Jun-2016
+2277622 :: ASSOCIATE CONSULTANT :: BCA :: 28-Nov-2016
+2418389 :: MANAGER :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2433740 :: Analyst :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2310069 :: Consultant :: BE/B.Tech (Hons) :: 07-Dec-2016
+2491487 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 06-Jun-2017
+2479785 :: Specialist :: BE/B.Tech (Hons) :: 18-May-2017
+2331540 :: Technical Specialist :: BE/B.Tech (Hons) :: 12-Dec-2016
+2479786 :: Analyst :: BE/B.Tech (Hons) :: 17-Jun-2016
+2433741 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2418426 :: SENIOR SPECIALIST :: Diploma :: 22-Feb-2017
+2491531 :: ASSOCIATE CONSULTANT :: BCA :: 06-Jun-2017
+2331541 :: Technical Specialist :: BE/B.Tech (Hons) :: 12-Dec-2016
+2491533 :: SENIOR SPECIALIST :: B.Arch. :: 06-Jun-2017
+2479788 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2418804 :: Engineer :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2433742 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2479789 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2491539 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 06-Jun-2017
+2331869 :: Technical Specialist :: BCom :: 12-Dec-2016
+2479790 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2418816 :: Senior Engineer :: Diploma :: 22-Feb-2017
+1875946 :: SENIOR CONSULTANT :: BE/B.Tech (Hons) :: 03-Jul-2016
+2479791 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2479792 :: Analyst :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2433743 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2459754 :: Lead Engineer :: BE/Btech/Beng(Hons) :: 02-Jul-2016
+2479850 :: Specialist :: BE/B.Tech (Hons) :: 17-Jun-2016
+2418817 :: Sr. Engineer :: BE/B.Tech (Hons) :: 22-Feb-2017
+2340442 :: ASSOCIATE CONSULTANT :: B.Arch. :: 14-Dec-2016
+2479851 :: ASSOCIATE CONSULTANT :: (B.E.S) Electronic Science :: 17-Jun-2016
+2473280 :: Lead Engineer :: BE/B.Tech (Hons) :: 03-Jul-2016
+2479860 :: Technical Specialist :: BE/B.Tech (Hons) :: 17-Jun-2016
+2418825 :: ASSOCIATE CONSULTANT :: B.Ed :: 22-Feb-2017
+2348521 :: Specialist :: BE/B.Tech (Hons) :: 20-Dec-2016
+2433744 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2433745 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2474173 :: Deputy Manager :: BCom :: 03-Jul-2016
+2433746 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2479861 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 17-Jun-2016
+2433747 :: SENIOR ANALYST :: BSc :: 16-Mar-2017
+2418829 :: Sr Operations Specialist :: BE/B.Tech (Hons) :: 22-Feb-2017
+2479871 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2348534 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 20-Dec-2016
+2479872 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2433748 :: Analyst :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2479874 :: Specialist :: BCom :: 17-Jun-2016
+2348494 :: Technical Specialist :: (B.E.S) Electronic Science :: 19-Dec-2016
+2433749 :: Analyst :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2387907 :: Analyst :: BE/B.Tech (Hons) :: 12-Jan-2017
+2348495 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 19-Dec-2016
+2479875 :: CONSULTANT :: BE/B.Tech (Hons) :: 17-Jun-2016
+2433750 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 16-Mar-2017
+2474186 :: Analyst :: BCom :: 01-Sep-2016
+2348526 :: Technical Specialist :: B.Arch. :: 19-Dec-2016
+2387909 :: Specialist :: MCA :: 12-Jan-2017
+2433751 :: SENIOR ANALYST :: BSc(Eng) - Bachelor of Science in Eng :: 16-Mar-2017
+2479876 :: Specialist :: BE/B.Tech (Hons) :: 17-Jun-2016
+2348527 :: Technical Specialist :: B.Arch. :: 19-Dec-2016
+2479877 :: Specialist :: BCA :: 17-Jun-2016
+2474190 :: Senior Developer :: BE/Btech/Beng(Hons) :: 12-Jun-2016
+2387910 :: Analyst :: BSc :: 12-Jan-2017
+2479878 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 17-Jun-2016
+2348529 :: Technical Specialist :: B.Arch. :: 19-Dec-2016
+2433808 :: SENIOR ANALYST :: BE/Btech/Beng(Hons) :: 16-Mar-2017
+2479879 :: ASSOCIATE CONSULTANT :: BCA :: 17-Jun-2016
+2418964 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2348532 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 19-Dec-2016
+2449735 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 12-Apr-2017
+2387913 :: SENIOR SPECIALIST :: BCom :: 12-Jan-2017
+2475388 :: Functional Lead :: BE/Btech/Beng(Hons) :: 12-Jun-2016
+2479918 :: Specialist :: BA :: 17-Jun-2016
+1877700 :: Technical Lead :: BE/B.Tech (Hons) :: 11-Sep-2016
+1873518 :: Specialist :: BE/B.Tech (Hons) :: 06-Oct-2016
+2480999 :: Analyst - BFS :: BA :: 03-Jul-2016
+2418992 :: Specialist :: BE/B.Tech (Hons) :: 22-Feb-2017
+1798961 :: SOFTWARE ENGINEER :: BSc :: 16-Jun-2016
+2387914 :: SENIOR SPECIALIST :: BCom :: 12-Jan-2017
+1875961 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Oct-2016
+2418993 :: CONSULTANT :: BE/B.Tech (Hons) :: 22-Feb-2017
+2489727 :: SR. TECHNICAL LEAD :: BE/Btech/Beng(Hons) :: 03-Jul-2016
+1879790 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 18-Oct-2016
+2387916 :: Analyst :: BE/B.Tech (Hons) :: 12-Jan-2017
+2419148 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2489760 :: Associate Manager :: BCom :: 03-Jul-2016
+2419151 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2377542 :: Specialist :: BE/B.Tech (Hons) :: 22-Dec-2016
+2387917 :: ASSOCIATE CONSULTANT :: (B.E.S) Electronic Science :: 12-Jan-2017
+2419152 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2489761 :: ASSOCIATE :: BCom :: 03-Jul-2016
+1884261 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 20-Oct-2016
+2376827 :: Specialist :: MCA :: 22-Dec-2016
+1884267 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 20-Oct-2016
+2416376 :: Specialist :: BE/Btech/Beng(Hons) :: 16-Jun-2016
+2419153 :: Consultant :: BE/B.Tech (Hons) :: 22-Feb-2017
+2216403 :: ASSOCIATE CONSULTANT :: BCA :: 11-Nov-2016
+2347569 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 17-Dec-2016
+2310058 :: CONSULTANT :: BSc :: 07-Dec-2016
+2422970 :: Engineer - Product Support :: BE/B.Tech (Hons) :: 16-Jun-2016
+2419157 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 22-Feb-2017
+2382941 :: Deputy Manager :: BE/B.Tech (Hons) :: 11-Jan-2017
+2490004 :: SENIOR ENGINEER :: BE/B.Tech (Hons) :: 03-Jul-2016
+2381882 :: Technical Specialist :: BE/B.Tech (Hons) :: 04-Jan-2017
+2326503 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 16-Dec-2016
+2346314 :: Specialist :: BE/B.Tech (Hons) :: 16-Dec-2016
+2396639 :: Specialist :: BE/B.Tech (Hons) :: 26-Jan-2017
+2452716 :: Technical Specialist :: BE/B.Tech (Hons) :: 17-May-2017
+2409810 :: Customer Support Executive :: Bachelor of Arts :: 13-Jun-2016
+2419158 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2346316 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 16-Dec-2016
+2384079 :: Analyst :: BCA :: 11-Jan-2017
+2412657 :: Specialist :: (B.E.S) Electronic Science :: 15-Feb-2017
+2419159 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2472389 :: CONSULTANT :: BE/B.Tech (Hons) :: 10-May-2017
+1653064 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 02-Sep-2016
+2417444 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 22-Feb-2017
+2384808 :: Specialist :: BE/B.Tech (Hons) :: 11-Jan-2017
+2271533 :: SENIOR SPECIALIST :: BSc :: 16-Nov-2016
+2346317 :: Specialist :: BE/B.Tech (Hons) :: 16-Dec-2016
+2490577 :: Associate :: BE/Btech/Beng(Hons) :: 03-Jul-2016
+2326358 :: CONSULTANT :: BE/B.Tech (Hons) :: 21-Feb-2017
+2418965 :: Specialist :: BE/Btech/Beng(Hons) :: 22-Feb-2017
+2490578 :: Associate :: BE/Btech/Beng(Hons) :: 03-Jul-2016
+2331607 :: Specialist :: BCA :: 21-Dec-2016
+2385583 :: Specialist :: BE/B.Tech (Hons) :: 11-Jan-2017
+2421853 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 01-Mar-2017
+2450910 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 12-Apr-2017
+2473741 :: Specialist :: BE/Btech/Beng(Hons) :: 17-May-2017
+2490579 :: Associate :: BE/Btech/Beng(Hons) :: 03-Jul-2016
+2473909 :: Engineer - Product Support :: B.Arch. :: 25-Aug-2016
+2474247 :: Technical Specialist :: BE/B.Tech (Hons) :: 17-May-2017
+2347494 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 16-Dec-2016
+2427652 :: CONSULTANT :: BE/B.Tech (Hons) :: 07-Mar-2017
+2490665 :: Project Manager :: BE/B.Tech (Hons) :: 03-Jul-2016
+2475290 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 17-May-2017
+2346460 :: Technical Specialist :: BE/B.Tech (Hons) :: 16-Dec-2016
+2490726 :: Technical Specialist :: MCA :: 03-Jul-2016
+2347585 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 16-Dec-2016
+2452424 :: Technical Specialist :: BE/B.Tech (Hons) :: 13-Apr-2017
+2432917 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 15-Mar-2017
+1880920 :: ASSISTANT MANAGER :: BCom :: 20-Oct-2016
+2475426 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 17-May-2017
+2452425 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 13-Apr-2017
+2347586 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 16-Dec-2016
+2340439 :: Specialist :: BE/B.Tech (Hons) :: 15-Dec-2016
+2407389 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Feb-2017
+1895777 :: Technical Specialist :: BBA :: 22-Oct-2016
+2385761 :: Specialist :: (B.E.S) Electronic Science :: 11-Jan-2017
+2475912 :: Analyst :: BCom :: 16-Jul-2016
+2208947 :: Technical Specialist :: BE/B.Tech (Hons) :: 02-Nov-2016
+2340441 :: Specialist :: BE/B.Tech (Hons) :: 15-Dec-2016
+2347584 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 16-Dec-2016
+2438694 :: Team Leader :: BCom :: 28-Feb-2017
+2458309 :: Engineer :: BSc :: 26-Apr-2017
+2476202 :: Specialist :: B.I.T :: 17-May-2017
+2378928 :: Specialist :: BE/B.Tech (Hons) :: 28-Dec-2016
+1645758 :: Specialist :: BE/Btech/Beng(Hons) :: 26-Aug-2016
+2387801 :: Sr. Engineer :: BE/B.Tech (Hons) :: 12-Jan-2017
+2476203 :: Specialist :: BSc :: 17-May-2017
+2047524 :: Specialist :: BE/B.Tech (Hons) :: 26-Oct-2016
+2387835 :: SENIOR SPECIALIST :: Diploma :: 12-Jan-2017
+2395143 :: Technical Specialist :: BE/B.Tech (Hons) :: 21-Jan-2017
+2459819 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 26-Apr-2017
+2208952 :: Technical Specialist :: BE/B.Tech (Hons) :: 01-Nov-2016
+2385766 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 11-Jan-2017
+2400891 :: Specialist :: BE/B.Tech (Hons) :: 01-Feb-2017
+2453749 :: Senior Technical Lead :: BE/B.Tech (Hons) :: 02-Jul-2016
+2476364 :: Senior System Administrator :: BE/Btech/Beng(Hons) :: 17-May-2017
+2385773 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 11-Jan-2017
+2459825 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 26-Apr-2017
+2208953 :: Technical Specialist :: BE/B.Tech (Hons) :: 01-Nov-2016
+2476366 :: Technical Specialist :: BCA :: 17-May-2017
+2458072 :: Data Analyst :: BA :: 02-Jul-2016
+2459827 :: Specialist :: (B.E.S) Electronic Science :: 26-Apr-2017
+2208955 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 01-Nov-2016
+2476369 :: Technical Specialist :: BCA :: 17-May-2017
+2404471 :: Technical Specialist :: BE/B.Tech (Hons) :: 08-Feb-2017
+2208956 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 01-Nov-2016
+2459828 :: Specialist :: BE/Btech/Beng(Hons) :: 26-Apr-2017
+2340364 :: SENIOR SPECIALIST :: BCA :: 14-Dec-2016
+2385775 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 11-Jan-2017
+2460991 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 26-Apr-2017
+2340429 :: CONSULTANT :: BE/B.Tech (Hons) :: 14-Dec-2016
+2476370 :: ASSOCIATE CONSULTANT :: BCA :: 17-May-2017
+2410794 :: Specialist :: BSc :: 15-Feb-2017
+2340432 :: CONSULTANT :: BE/B.Tech (Hons) :: 14-Dec-2016
+2469078 :: Junior Support Analyst :: BBA :: 10-Jun-2016
+2415759 :: PRODUCT MANAGER :: BE/Btech/Beng(Hons) :: 21-Feb-2017
+2416725 :: Deputy Manager :: BE/Btech/Beng(Hons) :: 21-Feb-2017
+2340436 :: Specialist :: BE/B.Tech (Hons) :: 14-Dec-2016
+2469465 :: Developer :: BE/B.Tech (Hons) :: 08-Jun-2016
+2386667 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 11-Jan-2017
+2416726 :: Deputy Manager :: BE/Btech/Beng(Hons) :: 21-Feb-2017
+2415218 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 20-Feb-2017
+2470393 :: Lead Engineer :: MCA :: 10-Sep-2016
+2460998 :: Specialist :: BE/B.Tech (Hons) :: 26-Apr-2017
+2340443 :: Technical Specialist :: B.Arch. :: 14-Dec-2016
+2386679 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 11-Jan-2017
+2211421 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-Nov-2016
+2326227 :: SENIOR SPECIALIST :: BCA :: 13-Dec-2016
+2386886 :: Analyst :: BE/B.Tech (Hons) :: 11-Jan-2017
+2329220 :: Technical Specialist :: BE/B.Tech (Hons) :: 13-Dec-2016
+2331605 :: Technical Specialist :: Others :: 13-Dec-2016
+2461065 :: Specialist :: BE/Btech/Beng(Hons) :: 26-Apr-2017
+2415219 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 20-Feb-2017
+2415220 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 20-Feb-2017
+2461631 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 26-Apr-2017
+2415546 :: Consultant :: BE/B.Tech (Hons) :: 20-Feb-2017
+2416101 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 20-Feb-2017
+2416374 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 20-Feb-2017
+2461632 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 26-Apr-2017
+2461635 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 26-Apr-2017
+2416410 :: Specialist :: BE/Btech/Beng(Hons) :: 20-Feb-2017
+2461637 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 26-Apr-2017
+2386739 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 12-Jan-2017
+2398031 :: ASSOCIATE CONSULTANT :: BCA :: 26-Jan-2017
+2409461 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 14-Feb-2017
+2409462 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 14-Feb-2017
+2410354 :: Technical Specialist :: MCA :: 14-Feb-2017
+2424451 :: Customer Support Executive :: Bachelor of Arts :: 24-Jul-2016
+2426786 :: Specialist :: BE/B.Tech (Hons) :: 07-Mar-2017
+2416412 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 20-Feb-2017
+2416582 :: Technical Specialist :: BE/B.Tech (Hons) :: 20-Feb-2017
+2426788 :: Specialist :: BE/B.Tech (Hons) :: 07-Mar-2017
+2416586 :: Specialist :: BE/B.Tech (Hons) :: 20-Feb-2017
+2429008 :: CONSULTANT :: BCom :: 08-Mar-2017
+2416972 :: Technical Specialist :: BCA :: 20-Feb-2017
+2416973 :: SENIOR SPECIALIST :: BCom :: 20-Feb-2017
+2429017 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 08-Mar-2017
+2486479 :: TECHNICAL SPECIALIST :: MCA :: 09-Sep-2016
+2387919 :: Analyst :: BSc :: 12-Jan-2017
+2442195 :: Technical Lead :: BE/Btech/Beng(Hons) :: 29-Mar-2017
+2442546 :: Associate Manager :: MBA :: 04-Apr-2017
+2403785 :: Specialist :: (B.E.S) Electronic Science :: 08-Feb-2017
+2487427 :: Technical Lead :: BE/B.Tech (Hons) :: 01-Jul-2016
+2455136 :: Technical Lead :: BE/B.Tech (Hons) :: 16-Aug-2016
+2456219 :: ASSOCIATE CONSULTANT :: BSc :: 18-Apr-2017
+2487441 :: Technical Lead :: BE/B.Tech (Hons) :: 01-Jul-2016
+2404483 :: Specialist :: (B.E.S) Electronic Science :: 08-Feb-2017
+2456223 :: CONSULTANT :: BE/B.Tech (Hons) :: 18-Apr-2017
+2487562 :: Senior Buyer :: BE/B.Tech (Hons) :: 01-Jul-2016
+2457183 :: CONSULTANT :: BE/B.Tech (Hons) :: 19-Apr-2017
+2409467 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 15-Feb-2017
+2487594 :: Lead Engineer :: BE/B.Tech (Hons) :: 01-Jul-2016
+2487595 :: Lead Engineer :: BE/B.Tech (Hons) :: 01-Jul-2016
+2458231 :: Data Analyst :: BE/Btech/Beng(Hons) :: 03-Aug-2016
+2487926 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 01-Jul-2016
+2458423 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 25-Apr-2017
+2488809 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 01-Jun-2017
+2488810 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 01-Jun-2017
+2488812 :: Specialist :: BE/B.Tech (Hons) :: 01-Jun-2017
+2488813 :: Specialist :: BE/B.Tech (Hons) :: 01-Jun-2017
+2459876 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-Apr-2017
+2380004 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 05-Jan-2017
+2122974 :: Technical Specialist :: BA :: 31-Oct-2016
+2408828 :: Technical Specialist :: BE/B.Tech (Hons) :: 09-Feb-2017
+2420074 :: Deputy Manager :: CA :: 26-Jun-2016
+2459877 :: Technical Specialist :: BE/B.Tech (Hons) :: 25-Apr-2017
+2426807 :: Technical Specialist :: (B.E.S) Electronic Science :: 07-Mar-2017
+2459878 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-Apr-2017
+2454520 :: BUYER :: BE/B.Tech (Hons) :: 29-Aug-2016
+2469019 :: Technical Lead :: BE/Btech/Beng(Hons) :: 30-Jun-2016
+2479756 :: SENIOR SPECIALIST :: BCom :: 18-May-2017
+2476194 :: Associate General Manager :: BE/B.Tech (Hons) :: 30-Jun-2016
+2459879 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-Apr-2017
+2476549 :: Associate Manager :: MBA :: 30-Jun-2016
+2459880 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 25-Apr-2017
+2482912 :: SENIOR SOFTWARE ENGINEER :: BSc :: 30-Jun-2016
+2479757 :: Analyst :: BE/Btech/Beng(Hons) :: 18-May-2017
+2485934 :: BUSINESS ANALYST :: MBA :: 30-Jun-2016
+2347587 :: Specialist :: BE/B.Tech (Hons) :: 05-Jan-2017
+2487425 :: CONSULTANT :: BE/B.Tech (Hons) :: 31-May-2017
+2459881 :: Specialist :: BE/Btech/Beng(Hons) :: 25-Apr-2017
+2487426 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 31-May-2017
+2459882 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 25-Apr-2017
+2487428 :: Specialist :: BE/Btech/Beng(Hons) :: 31-May-2017
+2487430 :: Specialist :: BE/Btech/Beng(Hons) :: 31-May-2017
+2487431 :: Specialist :: BE/B.Tech (Hons) :: 31-May-2017
+2487432 :: SENIOR SPECIALIST :: MCA :: 31-May-2017
+2487433 :: Technical Specialist :: BA :: 31-May-2017
+2487434 :: Specialist :: BE/B.Tech (Hons) :: 31-May-2017
+2479758 :: Analyst :: BE/B.Tech (Hons) :: 18-May-2017
+2487438 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 31-May-2017
+2479759 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2348530 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 19-Dec-2016
+2459887 :: Specialist :: BE/B.Tech (Hons) :: 25-Apr-2017
+2487439 :: SENIOR SPECIALIST :: BBA :: 31-May-2017
+2479760 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2487443 :: Specialist :: BE/B.Tech (Hons) :: 31-May-2017
+2487546 :: Technical Lead :: BE/B.Tech (Hons) :: 30-Jun-2016
+2487555 :: Senior Analyst :: BCom :: 30-Jun-2016
+2487556 :: Senior Analyst :: BCom :: 30-Jun-2016
+2487559 :: Specialist :: BCom :: 30-Jun-2016
+2487823 :: TEST LEAD :: (B.E.S) Electronic Science :: 30-Jun-2016
+2487849 :: SENIOR SPECIALIST :: Bachelor of Arts :: 31-May-2017
+2479761 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2348531 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 19-Dec-2016
+2479762 :: TRAINEE :: BE/B.Tech (Hons) :: 18-May-2017
+2459889 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 25-Apr-2017
+2487911 :: Analyst :: BA :: 30-Jun-2016
+2487944 :: Associate :: BE/Btech/Beng(Hons) :: 30-Jun-2016
+2459899 :: Specialist :: BE/B.Tech (Hons) :: 25-Apr-2017
+2487945 :: Associate :: BE/Btech/Beng(Hons) :: 30-Jun-2016
+2460093 :: Specialist :: B.Arch. :: 25-Apr-2017
+2488006 :: Associate :: BCom :: 31-May-2017
+2479763 :: Specialist :: BE/B.Tech (Hons) :: 18-May-2017
+2460640 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 25-Apr-2017
+2379018 :: ASSOCIATE CONSULTANT :: (B.E.S) Electronic Science :: 28-Dec-2016
+2488007 :: Associate :: BCom :: 31-May-2017
+2460641 :: Specialist :: BCom :: 25-Apr-2017
+2479764 :: Analyst :: BE/B.Tech (Hons) :: 18-May-2017
+2460643 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-Apr-2017
+2460644 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-Apr-2017
+2488013 :: Associate :: BCom :: 30-Jun-2016
+2479765 :: Analyst :: Bachelor of Arts :: 18-May-2017
+2488020 :: Associate :: BCom :: 30-Jun-2016
+2460645 :: CONSULTANT :: BE/B.Tech (Hons) :: 25-Apr-2017
+2488021 :: Associate :: BCom :: 30-Jun-2016
+2379883 :: Technical Specialist :: BE/B.Tech (Hons) :: 05-Jan-2017
+2479766 :: Analyst :: BE/B.Tech (Hons) :: 18-May-2017
+2488025 :: Associate :: BCom :: 30-Jun-2016
+2379985 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 05-Jan-2017
+2387783 :: ASSISTANT MANAGER :: MBA :: 12-Jan-2017
+2395914 :: Senior Engineer :: BSc :: 21-Jan-2017
+2479783 :: TRAINEE :: MCA :: 17-Jun-2016
+2479784 :: Graduate Trainee :: MCA :: 17-Jun-2016
+2379928 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 05-Jan-2017
+2479785 :: Specialist :: BE/B.Tech (Hons) :: 18-May-2017
+2479786 :: Analyst :: BE/B.Tech (Hons) :: 17-Jun-2016
+2379929 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 05-Jan-2017
+2479788 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2479789 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2379930 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 05-Jan-2017
+2479790 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2479791 :: SENIOR ANALYST :: (B.E.S) Electronic Science :: 17-Jun-2016
+2479792 :: Analyst :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2479850 :: Specialist :: BE/B.Tech (Hons) :: 17-Jun-2016
+2385082 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 10-Jan-2017
+2385806 :: Analyst :: BE/Btech/Beng(Hons) :: 10-Jan-2017
+2385811 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 10-Jan-2017
+2385824 :: SENIOR SPECIALIST :: Diploma :: 10-Jan-2017
+2382994 :: Analyst :: BSc :: 07-Jan-2017
+2475903 :: Specialist :: BCom :: 25-Aug-2016
+2478220 :: Third Party :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2480488 :: Specialist :: BE/B.Tech (Hons) :: 20-May-2017
+2484850 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 27-May-2017
+2484851 :: Consultant :: BE/Btech/Beng(Hons) :: 27-May-2017
+2484855 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 27-May-2017
+2479851 :: ASSOCIATE CONSULTANT :: (B.E.S) Electronic Science :: 17-Jun-2016
+2484856 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 27-May-2017
+2484857 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 27-May-2017
+2382995 :: Analyst :: BSc :: 07-Jan-2017
+2484858 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 27-May-2017
+2479860 :: Technical Specialist :: BE/B.Tech (Hons) :: 17-Jun-2016
+2484871 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 27-May-2017
+2484872 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 27-May-2017
+2485100 :: Manager :: BA :: 26-Jun-2016
+2479861 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 17-Jun-2016
+2479871 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2485313 :: Team Leader :: BA :: 26-Jun-2016
+2382996 :: Analyst :: BSc :: 07-Jan-2017
+2479872 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 17-Jun-2016
+2486066 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 27-May-2017
+2486291 :: Financial Analyst :: BE/B.Tech (Hons) :: 26-Jun-2016
+2486292 :: Financial Analyst :: BCom :: 26-Jun-2016
+2479874 :: Specialist :: BCom :: 17-Jun-2016
+2486293 :: Financial Analyst :: BCom :: 26-Jun-2016
+2382997 :: Analyst :: BSc :: 07-Jan-2017
+2486294 :: Financial Analyst :: BCom :: 26-Jun-2016
+2486295 :: Financial Analyst :: BCom :: 26-Jun-2016
+2486296 :: Senior Customer Support Executive :: BA :: 26-Jun-2016
+2486391 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 27-May-2017
+2486392 :: Technical Specialist :: BE/B.Tech (Hons) :: 27-May-2017
+2382998 :: Analyst :: BSc :: 07-Jan-2017
+2486412 :: Team Leader :: BE/B.Tech (Hons) :: 27-May-2017
+2486413 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 27-May-2017
+2481834 :: Analyst :: BE/B.Tech (Hons) :: 25-May-2017
+2382999 :: Analyst :: BCA :: 07-Jan-2017
+2486419 :: CONSULTANT :: Masters in Business Administration :: 27-May-2017
+2486421 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 27-May-2017
+2486422 :: Technical Specialist :: BE/B.Tech (Hons) :: 27-May-2017
+2486431 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 27-May-2017
+2486432 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 27-May-2017
+2383000 :: Analyst :: BCA :: 07-Jan-2017
+2486433 :: Specialist :: BE/B.Tech (Hons) :: 27-May-2017
+2479875 :: CONSULTANT :: BE/B.Tech (Hons) :: 17-Jun-2016
+2486437 :: Specialist :: BE/Btech/Beng(Hons) :: 27-May-2017
+2486438 :: Specialist :: BE/Btech/Beng(Hons) :: 27-May-2017
+2479876 :: Specialist :: BE/B.Tech (Hons) :: 17-Jun-2016
+2486885 :: Technical Specialist :: BE/Btech/Beng(Hons) :: 26-Jun-2016
+2378276 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 27-Dec-2016
+2401158 :: Specialist :: BE/B.Tech (Hons) :: 01-Feb-2017
+2428996 :: CONSULTANT :: BA :: 08-Mar-2017
+2479877 :: Specialist :: BCA :: 17-Jun-2016
+2440120 :: Technical Specialist :: BE/B.Tech (Hons) :: 25-Mar-2017
+2481838 :: TRAINEE :: BE/B.Tech (Hons) :: 25-May-2017
+2440122 :: Technical Specialist :: BE/B.Tech (Hons) :: 25-Mar-2017
+2479878 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 17-Jun-2016
+2443242 :: Specialist :: BE/Btech/Beng(Hons) :: 06-Apr-2017
+2482121 :: Specialist :: BCA :: 25-May-2017
+2456301 :: SENIOR SPECIALIST :: BE/Btech/Beng(Hons) :: 19-Apr-2017
+2383001 :: SENIOR ANALYST :: BCA :: 07-Jan-2017
+2458177 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 17-Jun-2016
+2459060 :: CONSULTANT :: BE/Btech/Beng(Hons) :: 21-Apr-2017
+2459820 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 17-Jun-2016
+2483033 :: TECHNICAL MANAGER :: BE/Btech/Beng(Hons) :: 24-Jun-2016
+2461063 :: ASSOCIATE CONSULTANT :: BE/Btech/Beng(Hons) :: 26-Apr-2017
+2464825 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 04-May-2017
+2483037 :: Specialist :: BE/B.Tech (Hons) :: 25-May-2017
+2466515 :: Third Party :: MBA :: 25-Jun-2016
+2467375 :: ASSOCIATE CONSULTANT :: BE/B.Tech (Hons) :: 03-May-2017
+2469040 :: Senior Executive :: CA :: 25-Jun-2016
+2479879 :: ASSOCIATE CONSULTANT :: BCA :: 17-Jun-2016
+2470857 :: LEAD EXECUTIVE :: BCom :: 25-Jun-2016
+2483751 :: SENIOR SPECIALIST :: BE/B.Tech (Hons) :: 25-May-2017
+2479918 :: Specialist :: BA :: 17-Jun-2016
+2483752 :: SENIOR ANALYST :: BE/B.Tech (Hons) :: 25-May-2017
+2483753 :: Graduate Trainee :: BE/B.Tech (Hons) :: 25-May-2017
+2383003 :: SENIOR SPECIALIST :: BCA :: 07-Jan-2017
